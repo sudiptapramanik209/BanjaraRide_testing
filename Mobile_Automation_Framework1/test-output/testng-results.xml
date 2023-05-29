@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T23:08:19 IST" name="Suite" finished-at="2023-05-26T23:10:44 IST" duration-ms="144605">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T23:08:19 IST" name="Test" finished-at="2023-05-26T23:10:44 IST" duration-ms="144605">
+      <class name="Demo.appiumFramework.Test_HybrideApp">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.appiumFramework.Test_HybrideApp@448c8166]" started-at="2023-05-26T23:08:19 IST" name="setup" finished-at="2023-05-26T23:08:42 IST" duration-ms="23491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Book_Now()[pri:1, instance:Demo.appiumFramework.Test_HybrideApp@448c8166]" started-at="2023-05-26T23:08:43 IST" name="Book_Now" finished-at="2023-05-26T23:09:18 IST" duration-ms="35376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Book_Now -->
+        <test-method signature="search()[pri:2, instance:Demo.appiumFramework.Test_HybrideApp@448c8166]" started-at="2023-05-26T23:09:18 IST" name="search" finished-at="2023-05-26T23:09:31 IST" duration-ms="12858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="coll_us()[pri:3, instance:Demo.appiumFramework.Test_HybrideApp@448c8166]" started-at="2023-05-26T23:09:31 IST" name="coll_us" finished-at="2023-05-26T23:09:50 IST" duration-ms="19087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coll_us -->
+        <test-method signature="aboutUs()[pri:4, instance:Demo.appiumFramework.Test_HybrideApp@448c8166]" started-at="2023-05-26T23:09:50 IST" name="aboutUs" finished-at="2023-05-26T23:10:13 IST" duration-ms="22902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUs -->
+        <test-method signature="update_profile()[pri:6, instance:Demo.appiumFramework.Test_HybrideApp@448c8166]" started-at="2023-05-26T23:10:13 IST" name="update_profile" finished-at="2023-05-26T23:10:28 IST" duration-ms="15216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_profile -->
+        <test-method signature="Testcase8()[pri:7, instance:Demo.appiumFramework.Test_HybrideApp@448c8166]" started-at="2023-05-26T23:10:28 IST" name="Testcase8" finished-at="2023-05-26T23:10:44 IST" duration-ms="15484" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase8 -->
+      </class> <!-- Demo.appiumFramework.Test_HybrideApp -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
